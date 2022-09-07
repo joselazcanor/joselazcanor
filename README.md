@@ -1,6 +1,6 @@
-- 👋 Hi, I’m José Lazcano, i'm studying Computer Engineering in Duoc UC.
+- 👋 Hi, I’m José Lazcano, i'm a Computer Engineer.
 - 👀 I’m interested in learn, i want to gain experience to be better on my work.
-- 🌱 I’m currently learning Javascript, in classes i haven't many chances to use Js, so i'm studying by myself.
+- 🌱 I’m currently learning how to code games in Unity.
 - 📫 If you want to contact me, use my e-mail: joseluislazcanor@gmail.com
 
 <!---
